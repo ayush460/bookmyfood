@@ -1,0 +1,22 @@
+#navbar{
+    flex-direction: column;
+}
+#home{
+height: 370;
+padding: 3px 68px;
+
+}
+#home::before{
+    height: 480;
+    
+    }
+    #home p{
+
+        
+    }
+#services{
+
+}
+#services.box{
+  flex-direction: column;
+}
